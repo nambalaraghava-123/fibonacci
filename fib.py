@@ -19,3 +19,4 @@ else:
         print(c,end=" ")
         a=b
         b=c
+        
